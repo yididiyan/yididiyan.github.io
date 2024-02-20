@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yididiya Y. Nadew "
+title                    : "Personal Website"
 title_separator          : "-"
 name                     : &name "Yididiya Y. Nadew"
 description              : &description "PhD student @ ISU"
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yididiya Y. Nadew"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Studying scalable approximate Bayesian methods to analyze brain data"
+  location         : "Ames, Iowa, USA"
+  employer         : "Iowa State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yididiya@iastate.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
