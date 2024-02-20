@@ -20,5 +20,6 @@ Research Interests
 Education
 ======
 2021-Present **Phd in Computer Science** at Iowa State University 
+
 2013-2018 — **BSc in Software Engineering** at Addis Ababa Institute of Technology
 
